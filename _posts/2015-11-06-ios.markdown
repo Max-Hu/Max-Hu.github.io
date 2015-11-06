@@ -1,0 +1,60 @@
+---
+layout:     post
+title: "从零开始学 iOS 开发（转)"
+subtitle:   "step by step"
+date:       2015-09-22
+author:     "Max"
+header-img: "img/post-bg-rwd.jpg"
+tags:
+    - ios
+    - Objective-C
+    - 转载
+---
+
+
+---
+## 直面代码
+如果你能写APP，现在就动手写自己的APP。  
+参考书籍：周楷雯Kevin的《[Producter](http://producter.io)》  
+
+如果你还写不了，可以读(抄)些优秀源码：
+完整APP项目源码：  
+[Objective-C]( https://github.com/singro/v2ex)  
+[Swift]( https://github.com/YANGReal/JokeClient-Swift)  
+源码网站：  
+https://github.com/search?o=desc&q=iOS&s=stars&type=Repositories&utf8=?  
+http://code4app.com  
+http://www.oschina.net/code/list?lang=Objective_C&catalog=&show=time  
+### 如果你读源码费劲，可以读些书：
+[iOS](http://item.jd.com/11620753.html)
+<!-- more -->
+## 进阶
+[iOS编程实战](http://item.jd.com/11543678.html)  
+[Objective-C高级编程 iOS与OS X多线程和内存管理](http://item.jd.com/11258970.html)  
+[Objective-C](http://item.jd.com/11611045.html)  
+[Swift](https://github.com/numbbbbb/the-swift-programming-language-in-chinese)  
+[Swifter : 100 个 Swift 开发必备 Tip](http://item.jd.com/11685611.html)  
+
+### 如果读书费劲，可以读些博客：
+http://objcio.cn  
+http://nshipster.cn  
+http://www.raywenderlich.com  
+http://www.objc.io  
+### 如果读博客费劲，可以读些苹果官方文档：  
+http://developer.apple.com/library/ios/navigation/  
+### 如果读文档费劲，可以看些视频：
+WWDC  
+https://developer.apple.com/videos/  
+http://open.163.com/special/opencourse/ios7.html  
+http://open.163.com/special/opencourse/ios8.html  
+### 如果看视频费劲，可以去开发社区逛逛：  
+https://www.v2ex.com/go/idev  
+http://www.cocoachina.com/bbs/thread.php?fid-21.html  
+http://stackoverflow.com/questions/tagged/ios  
+http://www.reddit.com/r/iOSProgramming/  
+### 如果逛社区费劲，就随便搜索，搜到什么看什么  
+能用Google就用Google，不行就百度。不要只搜一次，阅读了解部分信息后，增加或修改关键词继续搜。
+多用专业网站的站内搜索，或者Google/百度时加”site:”。  
+
+多参加技术沙龙，熟悉自己谋生的技术圈子。以防万一，带本书出门。  
+## [iOS学习资料汇总]( https://github.com/Aufree/trip-to-iOS)

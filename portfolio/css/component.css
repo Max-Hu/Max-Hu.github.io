@@ -9,6 +9,14 @@
 	font-style: normal;
 } /* Made with http://icomoon.io/ */
 
+.Maxfont{
+	font-size: 26px;
+}
+
+.maxPhoto{
+	    border-radius: 90px;
+}
+
 .cbp_tmtimeline {
 	margin: 30px 0 0 0;
 	padding: 0;
